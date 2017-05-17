@@ -1,0 +1,6 @@
+suites:
+    programmig_challenges_suite:
+        namespace: JesusFar\ProgrammingChallenges
+        psr4_prefix: JesusFar\ProgrammingChallenges
+        spec_path: tests
+        spec_prefix: bdd

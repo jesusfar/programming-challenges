@@ -1,0 +1,22 @@
+{
+    "name": "jesusfar/programmig-challenges",
+    "description": "Programming challenges in PHP",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jesus Farfan",
+            "email": "jesu.farfan@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "require-dev": {
+        "phpspec/phpspec": "^3.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "JesusFar\\ProgrammingChallenges\\": "src/"
+        }
+    }
+}
